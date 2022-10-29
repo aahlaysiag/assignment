@@ -1,0 +1,142 @@
+.mediaViewInfo {
+	--web-view-name: Fourth;
+	--web-view-id: Fourth;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: display;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#display {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: display;
+	--web-view-id: display;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+#recognizably {
+	left: 1064px;
+	top: 53px;
+	position: absolute;
+	overflow: visible;
+	width: 1151px;
+	height: 222px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 190px;
+	color: rgba(33,33,33,1);
+}
+#FLEXOGRAPHIC {
+	left: 123px;
+	top: 321px;
+	position: absolute;
+	overflow: visible;
+	width: 742px;
+	height: 129px;
+	text-align: left;
+	font-family: Roboto Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 110px;
+	color: rgba(112,112,112,1);
+}
+#computerniks {
+	left: 976px;
+	top: 321px;
+	position: absolute;
+	overflow: visible;
+	width: 320px;
+	height: 318px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 70px;
+	color: rgba(0,0,0,1);
+}
+#EXPURGATIONS {
+	transform: matrix(1,0,0,1,-426.5,437.5) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 915px;
+	height: 145px;
+	text-align: left;
+	font-family: Roboto Slab;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(16,67,174,1);
+}
+#subvocalized {
+	left: 123px;
+	top: 533px;
+	position: absolute;
+	overflow: visible;
+	width: 599px;
+	height: 106px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 91px;
+	color: rgba(33,33,33,1);
+}
+#DEMOGRAPHICS {
+	left: 127px;
+	top: 697px;
+	position: absolute;
+	overflow: visible;
+	width: 595px;
+	height: 318px;
+	text-align: left;
+	font-family: Roboto Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 110px;
+	color: rgba(112,112,112,1);
+}
+#AMBIDEXTROUS {
+	left: 1001px;
+	top: 807px;
+	position: absolute;
+	overflow: visible;
+	width: 840px;
+	height: 140px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 100px;
+	color: rgba(33,33,33,1);
+}
+#housewarming {
+	left: 756px;
+	top: 540px;
+	position: absolute;
+	overflow: visible;
+	width: 860px;
+	height: 129px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 110px;
+	color: rgba(16,67,174,1);
+}

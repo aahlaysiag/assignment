@@ -1,0 +1,223 @@
+@media only screen and (min-width: 600px){
+
+}
+@media only screen and (min-width: 768px)
+.mediaViewInfo {
+	--web-view-name: Homepage;
+	--web-view-id: Homepage;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Homepage;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#homepage {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(16,67,174,1);
+	overflow: hidden;
+	--web-view-name: homepage;
+	--web-view-id: homepage;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+#Group_3 {
+	position: absolute;
+	width: 904px;
+	height: 49px;
+	left: 500px;
+	top: 110px;
+	overflow: visible;
+	padding: 5px;
+}
+#history {
+	left: 850px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 75px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: history.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(171,171,171,1);
+}
+#family {
+	left: 620px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 184px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: family.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(171,171,171,1);
+}
+#display {
+	left: 385px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	@web-action-target: display.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(171,171,171,1);
+}
+#experiments {
+	left: 99px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: experiments.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(171,171,171,1);
+}
+#body {
+	left: -75px;
+	top: 5px;
+	position: absolute;
+	overflow: visible;
+	width: 114px;
+	white-space: nowrap;
+	--web-animation: fadein 0.30000001192092896s ease-out;
+	--web-action-type: page;
+	--web-action-target: body.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 33px;
+	color: rgba(171,171,171,1);
+}
+#button {
+	position: absolute;
+	width: 487px;
+	height: 150px;
+	left: 717px;
+	top: 803px;
+	overflow: visible;
+}
+#button {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.button {
+	position: absolute;
+	overflow: visible;
+	width: 487px;
+	height: 150px;
+	left: 0px;
+	top: 0px;
+	border-radius: 12px
+}
+#Get_Roboto {
+	left: 40px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 402px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(16,67,174,1);
+}
+#Aahlaysia_Gentry__Interactive_ {
+	left: 45px;
+	top: 1010px;
+	position: absolute;
+	overflow: visible;
+	width: 383px;
+	height: 19px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(255,255,255,1)
+}
+#ROBOTO {
+	left: 428px;
+	top: 261px;
+	position: absolute;
+	overflow: visible;
+	width: 1065px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 272px;
+	color: rgba(255,255,255,1);
+
+}
+#Sans-Serif____Google_Font____C {
+	left: 248px;
+	top: 579px;
+	position: absolute;
+	overflow: visible;
+	width: 1426px;
+	height: 63px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 54px;
+	color: rgba(255,255,255,1);
+}
+
+a:link {
+text-decoration: none;
+}
+
+a.portfolio {
+	color: rgba(255,255,255,1);
+}
+a.google {
+	color: rgba(16,67,174,1);
+}

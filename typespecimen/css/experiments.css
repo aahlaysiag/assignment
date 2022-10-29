@@ -1,0 +1,70 @@
+.mediaViewInfo {
+	--web-view-name: Fitth;
+	--web-view-id: Fitth;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Fitth;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#experiments {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(16,67,174,1);
+	overflow: hidden;
+	--web-view-name: experiments;
+	--web-view-id: experiments;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+#The_wizard_quickly_jinxed_the_ {
+	left: 159px;
+	top: 754px;
+	position: absolute;
+	overflow: visible;
+	width: 849px;
+	height: 142px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#We_promptly_judged_antique_ivo {
+	left: 910px;
+	top: 168px;
+	position: absolute;
+	overflow: visible;
+	width: 857px;
+	height: 142px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+#When_zombies_arrive_quickly_fa {
+	left: 342px;
+	top: 494px;
+	position: absolute;
+	overflow: visible;
+	width: 1237px;
+	height: 82px;
+	text-align: left;
+	font-family: Roboto Condensed;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,255,255,1);
+}

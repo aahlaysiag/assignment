@@ -1,0 +1,116 @@
+.mediaViewInfo {
+	--web-view-name: history;
+	--web-view-id: history;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: history;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#history {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: history;
+	--web-view-id: history;
+	--web-scale-on-resize: true;
+	--web-application: true;
+	--web-enable-deep-linking: true;
+}
+#Group_2 {
+	position: absolute;
+	width: 792px;
+	height: 317px;
+	left: 126px;
+	top: 591px;
+	overflow: visible;
+}
+#The_typeface_Roboto_was_create {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 793px;
+	height: 317px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 27px;
+	color: rgba(33,33,33,1);
+}
+#ROBOTO {
+	opacity: 0.148;
+	left: -757px;
+	top: -70px;
+	position: absolute;
+	overflow: visible;
+	width: 1515px;
+	height: 446px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 381px;
+	color: rgba(16,67,174,1);
+}
+#ROBOTO_u {
+	opacity: 0.148;
+	left: 1147px;
+	top: 126px;
+	position: absolute;
+	overflow: visible;
+	width: 1515px;
+	height: 446px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 381px;
+	color: rgba(16,67,174,1);
+}
+#Group_6 {
+	position: absolute;
+	width: 612px;
+	height: 144px;
+	left: 1165px;
+	top: 746px;
+	overflow: visible;
+}
+#Easy_to_read_Largely_Geometric {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 474px;
+	height: 144px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(0,0,0,1);
+}
+#Humanist_Natural_Sizable {
+	left: 421px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 192px;
+	height: 144px;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(0,0,0,1);
+}
